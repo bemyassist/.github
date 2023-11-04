@@ -1,3 +1,3 @@
 # Welcome
 
-To India's next biggest business management app
+To India's next biggest business management app.
